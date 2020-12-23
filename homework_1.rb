@@ -40,7 +40,7 @@ class CustomSymbol
   end
 
   def if_symbol_between(a, b, c)
-    # Не знаю
+    # :(
   end
 end
 
